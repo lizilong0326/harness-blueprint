@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧭 Agent Blueprint
+# 🧭 Harness Blueprint
 
 **从「一个点子 · 一份 PRD · 一段代码」到「可落地的 Agent Harness 产品方案」**
 
@@ -24,7 +24,7 @@
 
 ```mermaid
 flowchart LR
-    A[💡 一个点子] --> E[🧭 Agent Blueprint]
+    A[💡 一个点子] --> E[🧭 Harness Blueprint]
     B[📄 一份 PRD] --> E
     C[💻 一段代码] --> E
     E --> F[📘 方案.md<br/>七层架构 + 组件选型 + 提示词]
