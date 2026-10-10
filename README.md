@@ -4,7 +4,6 @@
 
 **从「一个点子 · 一份 PRD · 一段代码」到「可落地的 Agent Harness 产品方案」**
 
-[![Test](https://github.com/hubooooooo/agent-blueprint/actions/workflows/test.yml/badge.svg)](https://github.com/hubooooooo/agent-blueprint/actions/workflows/test.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg)](https://www.python.org/downloads/)
 
@@ -125,6 +124,6 @@ python3 tools/package_student.py        # 生成学生压缩包
 
 <div align="center">
 
-作者：**Hubo** · [MIT 许可证](LICENSE) · [教程视频](https://www.bilibili.com/video/BV17RtD61ETm/)
+[MIT 许可证](LICENSE)
 
 </div>
