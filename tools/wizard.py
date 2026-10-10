@@ -184,7 +184,7 @@ def do_audit() -> None:
 
 def main() -> None:
     print(f"\n{'=' * 46}")
-    print("Agent Blueprint 引导工具")
+    print("Harness Blueprint 引导工具")
     print("=" * 46)
 
     if not has_real_key():
